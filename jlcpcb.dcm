@@ -4,4 +4,8 @@ $CMP EL817
 F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL817S1-C-TU-F_C106900.pdf
 $ENDCMP
 #
+$CMP MCP23017
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
+$ENDCMP
+#
 #End Doc Library
