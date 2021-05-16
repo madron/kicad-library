@@ -6,6 +6,12 @@ K linear regulator ldo fixed positive
 F https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf
 $ENDCMP
 #
+$CMP CH340G
+D USB serial converter, UART, SOIC-16
+K USB UART Serial Converter Interface
+F https://datasheet.lcsc.com/lcsc/2008191806_WCH-Jiangsu-Qin-Heng-CH340G_C14267.pdf
+$ENDCMP
+#
 $CMP EL817
 D DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4
 K NPN DC Optocoupler
