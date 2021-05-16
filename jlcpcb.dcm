@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AMS1117-3.3
+D 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://datasheet.lcsc.com/lcsc/1811142212_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf
+$ENDCMP
+#
 $CMP EL817
 D DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4
 K NPN DC Optocoupler
